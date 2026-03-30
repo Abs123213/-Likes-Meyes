@@ -1,4 +1,6 @@
 # .github/workflows/update_tokens.yml
+permissions:
+  contents: write
 name: Update Tokens
 
 on:
